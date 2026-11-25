@@ -1,14 +1,12 @@
-# Hamza'nın C Calculator'ı
-
 Bu basit calculator C dilinde yazılmıştır. Temel matematik işlemlerini yapabilir.
 
 ## Özellikler
-- ✅ Toplama
-- ✅ Çıkarma  
-- ✅ Çarpma
-- ✅ Bölme (sıfıra bölme kontrolü ile)
-- ✅ Kullanıcı dostu menü
-- ✅ Hata kontrolü
+-  Toplama
+-  Çıkarma  
+-  Çarpma
+-  Bölme (sıfıra bölme kontrolü ile)
+- Kullanıcı dostu menü
+-  Hata kontrolü
 
 ## Nasıl Çalıştırılır
 
@@ -43,10 +41,6 @@ Birinci sayıyı girin: 10
 
 Sonuç: 10.00 + 5.00 = 15.00
 ```
-
-## Geliştirici
-👨‍💻 **Hamza**  
-📧 GitHub: [everyoneexe](https://github.com/everyoneexe)  
 💬 Discord: everyonexe
 
 ---
